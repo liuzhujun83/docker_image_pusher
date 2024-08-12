@@ -1,4 +1,4 @@
-ollama/ollama
+ollama/ollama:0.1.45-rc3
 #nginx
 #reids
 #支持私库
