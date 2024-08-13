@@ -1,5 +1,5 @@
 #container-registry.oracle.com/database/free:latest
---platform=linux/arm64 coreos/etcd:v3.5.5
+coreos/etcd:v3.5.15
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 
 
