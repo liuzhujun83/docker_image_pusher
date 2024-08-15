@@ -1,4 +1,4 @@
-open-webui:git-fe19f12
+ghcr.io/open-webui/open-webui:main
 
 ################ 已拉取过 #############################################
 #ollama/ollama:0.1.45-rc3
